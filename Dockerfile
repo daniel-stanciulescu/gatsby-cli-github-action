@@ -1,6 +1,5 @@
 FROM node:16-slim
 
-
 LABEL version="1.0.0"
 LABEL "repository"="http://github.com/jzweifel/gatsby-cli-github-action"
 LABEL "homepage"="http://github.com/jzweifel"
